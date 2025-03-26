@@ -34,6 +34,7 @@ begin
     writeln;
 end;
 
+
 begin
     { Pobieranie parametrów }
     if ParamCount = 3 then
