@@ -8,4 +8,4 @@ Zadanie 1 Paradygmaty
 
 ✅ 4.0 Dodanie parametrów do procedury losującej określającymi zakres
 
-Kod: zadanie1 [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/zadanie1/zadanie1.pas)
+Zadanie 1: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/zadanie1/zadanie1.pas) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie1.mkv)
