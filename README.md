@@ -27,3 +27,11 @@ formie eager
 ✅ 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika
 
 Zadanie 3: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie3/zadanie3/zadanie3) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie3.mkv)
+
+Zadanie 4 Wzorce strukturalne (Go)
+
+✅ 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
+miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
+(lub akcjach giełdowych)
+
+Zadanie 4: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie4) demo: [link] (https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie4.mkv)
