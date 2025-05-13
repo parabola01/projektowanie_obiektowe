@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 3000
+    },
+    {
+      "id": "2",
+      "name": "Smartfon",
+      "price": 2000
+    },
+    {
+      "id": "3",
+      "name": "Słuchawki",
+      "price": 300
+    }
+  ],
+  "payment": [
+    {
+      "id": "9f63",
+      "items": [
+        {
+          "id": "1",
+          "name": "Laptop",
+          "price": 3000
+        }
+      ],
+      "timestamp": "2025-05-13T18:25:10.699Z"
+    },
+    {
+      "id": "25b3",
+      "items": [
+        {
+          "id": "1",
+          "name": "Laptop",
+          "price": 3000
+        }
+      ],
+      "totalAmount": 3000,
+      "timestamp": "2025-05-13T18:26:57.986Z"
+    },
+    {
+      "id": "c801",
+      "items": [
+        {
+          "id": "3",
+          "name": "Słuchawki",
+          "price": 300
+        },
+        {
+          "id": "2",
+          "name": "Smartfon",
+          "price": 2000
+        },
+        {
+          "id": "1",
+          "name": "Laptop",
+          "price": 3000
+        }
+      ],
+      "totalAmount": 5300,
+      "timestamp": "2025-05-13T18:27:12.463Z"
+    },
+    {
+      "id": "9004",
+      "items": [
+        {
+          "id": "3",
+          "name": "Słuchawki",
+          "price": 300
+        }
+      ],
+      "totalAmount": 300,
+      "timestamp": "2025-05-13T18:27:24.134Z"
+    },
+    {
+      "id": "a729",
+      "items": [
+        {
+          "id": "1",
+          "name": "Laptop",
+          "price": 3000
+        },
+        {
+          "id": "3",
+          "name": "Słuchawki",
+          "price": 300
+        }
+      ],
+      "totalAmount": 3300,
+      "timestamp": "2025-05-13T18:29:36.477Z"
+    }
+  ]
+}
