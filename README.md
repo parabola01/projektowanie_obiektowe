@@ -34,7 +34,7 @@ Zadanie 4 Wzorce strukturalne (Go)
 miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
 (lub akcjach giełdowych)
 
-Zadanie 4: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie4) demo: [link] (https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie4.mkv)
+Zadanie 4: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie4) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie4.mkv)
 
 Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
 
@@ -44,4 +44,4 @@ Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
 
 ✅ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks
 
-Zadanie 5: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie5/app) demo: [link] (https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie5.mkv)
+Zadanie 5: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie5/app) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie5.mkv)
