@@ -35,3 +35,13 @@ miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
 (lub akcjach giełdowych)
 
 Zadanie 4: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie4) demo: [link] (https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie4.mkv)
+
+Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
+
+✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej
+
+✅ 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing
+
+✅ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks
+
+Zadanie 5: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie5/app) demo: [link] (https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie5.mkv)
