@@ -45,3 +45,9 @@ Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
 ✅ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks
 
 Zadanie 5: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie5/app) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie5.mkv)
+
+Zadanie 6 Zapaszki
+
+✅ 3.0 Należy dodać eslint w hookach gita
+
+Zadanie 6: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie6/app) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie6.mkv)
