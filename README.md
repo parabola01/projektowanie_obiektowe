@@ -51,3 +51,9 @@ Zadanie 6 Zapaszki
 ✅ 3.0 Należy dodać eslint w hookach gita
 
 Zadanie 6: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/main/zadanie6/app) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie6.mkv)
+
+Zadanie 7 Antywzorce (Vapor Swift)
+
+✅ 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent
+
+Zadanie 7: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/bd6a1a979c7ab69c9153835a988517f07d77f055/zadanie7) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie7.mkv)
