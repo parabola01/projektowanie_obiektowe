@@ -62,4 +62,4 @@ Zadanie 8 Testy
 
 ✅ 3.0 Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze
 
-Zadanie 8: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/be219b8dc4afa155d12f133a580a82e33f990b86) demo: [link] (https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie8.mkv)
+Zadanie 8: kod: [link](https://github.com/parabola01/projektowanie_obiektowe/tree/be219b8dc4afa155d12f133a580a82e33f990b86) demo: [link](https://github.com/parabola01/projektowanie_obiektowe/blob/main/demos/zadanie8.mkv)
